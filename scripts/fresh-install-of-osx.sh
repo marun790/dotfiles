@@ -226,12 +226,10 @@ app_list=(
   'Command X.app'
   'Google Drive.app'
   'iBar.app'
-  'Itsycal.app'
   'KeepingYouAwake.app'
   'Keybase.app'
   'Raycast.app'
   'Stats.app'
-  'ZoomHider.app'
 )
 for app in "${app_list[@]}"; do
   setup_login_item "${app}"
