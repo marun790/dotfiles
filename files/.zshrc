@@ -154,3 +154,6 @@ typeset -U path
 ### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
 export PATH="${HOME}/.rd/bin:${PATH+:${PATH}}"
 ### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
+
+load_file_if_exists "${HOME}/.fzf.zsh"
+export FZF_DEFAULT_OPS="--extended"

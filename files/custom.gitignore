@@ -10,6 +10,10 @@ __pycache__
 .bundle/cache
 .cisco/vpn/log
 .cocoapods/
+/.continue/server
+/.continue/sessions
+/.continue/calculator.py
+/.continue/config.py
 .cordova
 .dartServer/
 .docker/

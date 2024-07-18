@@ -223,8 +223,8 @@ setup_login_item() {
 app_list=(
   'AlDente.app'
   'Clocker.app'
-  'Cloudflare WARP.app'
   'Command X.app'
+  'Google Drive.app'
   'iBar.app'
   'Itsycal.app'
   'KeepingYouAwake.app'
