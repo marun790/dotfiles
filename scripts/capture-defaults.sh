@@ -136,7 +136,6 @@ app_array=(
   'com.docker.docker'
   'com.github.Electron'
   'com.google.Chrome'
-  'com.google.drivefs'
   'com.googlecode.iterm2'
   'com.insomnia.app'
   'com.jetbrains.intellij'
