@@ -31,4 +31,8 @@ export PERSONAL_BIN_DIR="${HOME}/.bin"
 export DOTFILES_DIR="${HOME}/.bin-oss"
 export KEYBASE_USERNAME="muruganarun"
 export KEYBASE_HOME_REPO_NAME="home"
+export KEYBASE_PROFILES_REPO_NAME="profiles"
+
+export XDG_CACHE_HOME="${HOME}/.cache"
+export ZDOTDIR="${HOME}"
 # export KEYBASE_PROFILES_REPO_NAME="profiles"
